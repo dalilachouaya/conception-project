@@ -438,9 +438,9 @@
 											"font": "Arial;13;1",
 											"left": 1061,
 											"top": 213,
-											"width": 65.76171875,
+											"width": 78.025390625,
 											"height": 13,
-											"text": "JobSeeker"
+											"text": "Professional"
 										},
 										{
 											"_type": "LabelView",
@@ -476,7 +476,7 @@
 									"font": "Arial;13;0",
 									"left": 1056,
 									"top": 206,
-									"width": 75.76171875,
+									"width": 88.025390625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF7IHCO4v6w+yI="
@@ -565,7 +565,7 @@
 							"containerChangeable": true,
 							"left": 1056,
 							"top": 152,
-							"width": 75.76171875,
+							"width": 88.025390625,
 							"height": 80,
 							"nameCompartment": {
 								"$ref": "AAAAAAF7IHCO4v6vEbY="
@@ -6993,7 +6993,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 948,
-									"top": 167,
+									"top": 166,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -7014,7 +7014,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"left": 945,
-									"top": 182,
+									"top": 181,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -7035,7 +7035,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 955,
-									"top": 138,
+									"top": 137,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -7077,7 +7077,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1021,
-									"top": 197,
+									"top": 196,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -7098,7 +7098,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1036,
-									"top": 159,
+									"top": 158,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -7204,7 +7204,7 @@
 								"$ref": "AAAAAAF7IHCO4f6uHh4="
 							},
 							"lineStyle": 1,
-							"points": "1055:182;850:136",
+							"points": "1055:181;850:136",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF7IKx6ZCfPSBM="
@@ -7531,7 +7531,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 961,
-									"top": 203,
+									"top": 204,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -7552,7 +7552,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"left": 957,
-									"top": 188,
+									"top": 189,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -7573,7 +7573,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 968,
-									"top": 232,
+									"top": 233,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -7594,7 +7594,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 897,
-									"top": 220,
+									"top": 221,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -7677,7 +7677,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1020,
-									"top": 174,
+									"top": 175,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -7697,7 +7697,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1037,
-									"top": 212,
+									"top": 213,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -7742,7 +7742,7 @@
 								"$ref": "AAAAAAF7IKC5UgMQnj0="
 							},
 							"lineStyle": 1,
-							"points": "876:248;1055:201",
+							"points": "876:248;1055:202",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF7IK2gujP76oY="
@@ -9034,7 +9034,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 804,
-									"top": 181,
+									"top": 180,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -9055,7 +9055,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"left": 803,
-									"top": 196,
+									"top": 195,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -9076,7 +9076,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 805,
-									"top": 152,
+									"top": 151,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -9097,7 +9097,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1028,
-									"top": 196,
+									"top": 195,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -9117,8 +9117,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1024,
-									"top": 209,
+									"left": 1025,
+									"top": 208,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -9139,7 +9139,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1034,
-									"top": 169,
+									"top": 168,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -9159,7 +9159,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 580,
+									"left": 581,
 									"top": 167,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -9180,7 +9180,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 582,
-									"top": 181,
+									"top": 180,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -9245,7 +9245,7 @@
 								"$ref": "AAAAAAF7IHCO4f6uHh4="
 							},
 							"lineStyle": 1,
-							"points": "1055:189;556:157",
+							"points": "1055:188;556:157",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF7ILW/Q3q+9og="
@@ -9807,7 +9807,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7IG/4yv5I1EM="
 					},
-					"name": "JobSeeker",
+					"name": "Professional",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -10472,9 +10472,9 @@
 											"font": "Arial;13;0",
 											"left": 608,
 											"top": -160,
-											"width": 80.9072265625,
+											"width": 119.90087890625,
 											"height": 13,
-											"text": "(from Model2)"
+											"text": "(from ClassDiagram)"
 										},
 										{
 											"_type": "LabelView",
@@ -10856,9 +10856,9 @@
 											"font": "Arial;13;0",
 											"left": 448,
 											"top": -48,
-											"width": 80.9072265625,
+											"width": 119.90087890625,
 											"height": 13,
-											"text": "(from Model2)"
+											"text": "(from ClassDiagram)"
 										},
 										{
 											"_type": "LabelView",
@@ -11119,9 +11119,9 @@
 											"font": "Arial;13;0",
 											"left": 720,
 											"top": 112,
-											"width": 80.9072265625,
+											"width": 119.90087890625,
 											"height": 13,
-											"text": "(from Model2)"
+											"text": "(from ClassDiagram)"
 										},
 										{
 											"_type": "LabelView",
@@ -11365,9 +11365,9 @@
 											"font": "Arial;13;0",
 											"left": -544,
 											"top": -128,
-											"width": 80.9072265625,
+											"width": 119.90087890625,
 											"height": 13,
-											"text": "(from Model2)"
+											"text": "(from ClassDiagram)"
 										},
 										{
 											"_type": "LabelView",
@@ -11741,9 +11741,9 @@
 											"font": "Arial;13;0",
 											"left": -720,
 											"top": 112,
-											"width": 80.9072265625,
+											"width": 119.90087890625,
 											"height": 13,
-											"text": "(from Model2)"
+											"text": "(from ClassDiagram)"
 										},
 										{
 											"_type": "LabelView",
@@ -12108,9 +12108,9 @@
 											"font": "Arial;13;0",
 											"left": -272,
 											"top": 80,
-											"width": 80.9072265625,
+											"width": 119.90087890625,
 											"height": 13,
-											"text": "(from Model2)"
+											"text": "(from ClassDiagram)"
 										},
 										{
 											"_type": "LabelView",
@@ -12699,9 +12699,9 @@
 											"font": "Arial;13;0",
 											"left": 320,
 											"top": 192,
-											"width": 80.9072265625,
+											"width": 119.90087890625,
 											"height": 13,
-											"text": "(from Model2)"
+											"text": "(from ClassDiagram)"
 										},
 										{
 											"_type": "LabelView",
@@ -14650,9 +14650,9 @@
 											"font": "Arial;13;0",
 											"left": -160,
 											"top": -2,
-											"width": 80.9072265625,
+											"width": 119.90087890625,
 											"height": 13,
-											"text": "(from Model2)"
+											"text": "(from ClassDiagram)"
 										},
 										{
 											"_type": "LabelView",
